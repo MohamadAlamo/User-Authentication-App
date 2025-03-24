@@ -1,0 +1,17 @@
+export default {
+  white: "#ffffff",
+  black: "#0a0a0a",
+  primary: "#EFA949",
+  backgroundDark: "#24232A",
+  BackgroundLight: "#FFFFFF",
+  BackgroundLightGray: "#F4F3F2",
+  BottomTabNavigatorDark: "#1C1B21",
+  headerDarkBackground: "#24232A",
+  StatusBarDark: "#1C1B21",
+  StatusBarLight: "#FFFFFF",
+  Delete: "#EE6749",
+  CardBackground: "#383642",
+  brown: "#331800",
+  gray: "#7E7D86",
+  red: "#FF0000",
+};
