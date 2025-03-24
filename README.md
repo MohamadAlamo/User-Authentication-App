@@ -105,6 +105,15 @@ Ensure you have the following installed:
 - Implement biometric authentication.
 - Use a backend service for real authentication.
 
+
+## Screenshots
+![Welcome Screen](./screenshots/Welcome screen.png)
+![Login Screen](./screenshots/Login Screen.png)
+![Signup Screen](./screenshots/Signup Screen.png)
+![Home Screen](./screenshots/Home Screen.png)
+
+
+
 ---
 
 🛠 Developed by **Mohamad Alamo** as part of a technical assessment.
