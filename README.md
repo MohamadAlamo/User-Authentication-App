@@ -107,10 +107,10 @@ Ensure you have the following installed:
 
 
 ## Screenshots
-![Welcome Screen](./screenshots/Welcome screen.png)
-![Login Screen](./screenshots/Login Screen.png)
-![Signup Screen](./screenshots/Signup Screen.png)
-![Home Screen](./screenshots/Home Screen.png)
+- [Welcome Screen](./screenshots/Welcome screen.png)
+- [Login Screen](./screenshots/Login Screen.png)
+- [Signup Screen](./screenshots/Signup Screen.png)
+- [Home Screen](./screenshots/Home Screen.png)
 
 
 
