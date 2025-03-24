@@ -71,6 +71,7 @@ Ensure you have the following installed:
   │   ├── welcome/
   │   │   ├── Welcome.tsx
   │   │   ├── index.tsx
+  ├── Screenshots/             # App Screenshots
   ├── .gitignore               # Git ignore file
   ├── App.js                   # Main entry file
   ├── app.json                 # Expo app config
