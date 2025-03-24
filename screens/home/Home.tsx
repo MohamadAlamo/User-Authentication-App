@@ -36,9 +36,12 @@ const Home: React.FC<HomeProps> = ({ navigation }) => {
       <View style={styles.welcomeContainer}>
         <Text style={styles.welcomeText}>Welcome , {user?.name}!</Text>
       </View>
+      <View style={styles.welcomeContainer}>
+        <Text style={styles.welcomeEmail}>{user?.email}</Text>
+      </View>
       <TouchableOpacity style={styles.logoutButton} onPress={logout}>
         <Image source={logoSource} style={styles.icon} />
-        <Text style={styles.logoutButtonText}>LOG_OUT</Text>
+        <Text style={styles.logoutButtonText}>LOG OUT</Text>
       </TouchableOpacity>
     </View>
   );
@@ -58,6 +61,13 @@ const styles = StyleSheet.create({
     color: COLORS.primary,
     textAlign: "center",
     fontSize: 28,
+    lineHeight: 36,
+    fontWeight: "700",
+  },
+  welcomeEmail: {
+    color: COLORS.black,
+    textAlign: "center",
+    fontSize: 20,
     lineHeight: 36,
     fontWeight: "700",
   },
